@@ -1,0 +1,5 @@
+# Customer data (names, emails, phones) - never commit
+reports/
+logs/
+__pycache__/
+*.pyc
